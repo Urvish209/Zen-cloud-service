@@ -41,7 +41,7 @@ APPID_OAUTH_SERVER_URL=your_appid_oauth_server_url
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/zencloud-service.git
+   git clone [https://github.com/yourusername/zencloud-service.git](https://github.com/Urvish209/Zen-cloud-service.git)
    cd zencloud-service
    ```
 
