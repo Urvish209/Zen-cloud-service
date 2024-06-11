@@ -17,6 +17,8 @@ Create a .env file in the root directory and add the following environment varia
 
 makefile
 Copy code
+
+
 COS_API_KEY=your_cos_api_key
 COS_INSTANCE_ID=your_cos_instance_id
 CLOUDANT_API_KEY=your_cloudant_api_key
@@ -24,6 +26,9 @@ CLOUDANT_URL=your_cloudant_url
 APPID_CLIENT_ID=your_appid_client_id
 APPID_SECRET=your_appid_secret
 APPID_OAUTH_SERVER_URL=your_appid_oauth_server_url
+
+
+
 Installation
 Clone the repository:
 
