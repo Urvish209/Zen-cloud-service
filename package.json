@@ -1,0 +1,26 @@
+{
+  "name": "cloud-storage-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ibm-cloud/cloudant": "^0.9.1",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "ibm-cloud-sdk-core": "^4.3.0",
+    "ibm-cos-sdk": "^1.13.4",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "ibmcloud-appid": "^7.0.0",
+    "typescript": "^5.4.5"
+  }
+}
