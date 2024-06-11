@@ -92,11 +92,6 @@ This project is licensed under the MIT License.
 - [jQuery](https://jquery.com/) for simplifying JavaScript.
 - [Roboto Font](https://fonts.google.com/specimen/Roboto) for the elegant typography.
 
----
-
-## Contact
-
-If you have any questions, feel free to reach out at your-email@example.com.
 
 ---
 
